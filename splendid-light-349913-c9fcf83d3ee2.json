@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "splendid-light-349913",
+  "private_key_id": "c9fcf83d3ee2c25d7ab76fdaee3f90242f635b4b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCkSSBhaLsEK9vF\ntCn1P3i/FXS1DVbIiiLyV/t6ZHr9/yaPtPOe14SrR8r7EJsFiThMBhuZp/05g65S\np7JMsEpDCGfNy8DbKPNZPOvmho00rzRM0mRzCRGlYACO3vbShClD7YOdkL8SgU7+\nPGjNB5sd6ScFaaXdZSwJSLXDfS8ahYXDQ4a+nWm/tZ4vEH2hiV5pDGE6jnQcbPQr\nuACfiI73qdYAxr2ESg+enCe+TxN8l7p6ZoHYG5UZVNA+bFRGaNMSVH3vCcgKvMFb\nlZ0ERaseIZIF0I0cWyeaQJzyEJPrgJMOeyJ+UcZqWywpXsdteJowPTrXeZMYkAo1\n0O2sBjBbAgMBAAECggEANtYv6EPQlPJcz++0x6dxkvrC84Ip0xOE2bazeuWaRjkK\nMpK4dO9EWfXDU611yVHFyF6LjO0Nccq5/934/m8jwp9GIuPdkmnnXISgy1hjPtAy\nmWfq3pkK2lQiq43R/m/d5E4eDhSYKsGdz+/zHWjqBoBiJYTft/hCzDCId2HMPMIG\nscctcC+IeHOSAbgeIhv5KImqclxegA+W5ov8I3O7FGRqoaeFlVpytwwHS6kvuxbf\ncQvbOnKae2RDkqecSVvQRzxD/OIc/TbVA1tojAZnXs/N2W8+9UtethbzqoERcZSB\nMmst5XfO00+PcmZxgQ65DDt7dVT54agyawj2iuCUZQKBgQDa/T5tfvtJziyxqkFt\n4NlLn1973wcLT+Dh/FbFRgt02kzgXQehuQIDnCAUtJxMAj60QjXevBo734XHXbtG\nPLRkHVtnUWN/PwQrMn3HsGX8JSJTsltM/pFTsK65u31WyILTGeXzloKK3CEeeb+W\nGawlZNqp0wPLQ5CKgAHFS7pkHwKBgQDADRXcLKJtXjXiACiVDGJ+aRiQ11OyfzQk\n4lxNiT+cQfyGKPGPvqpph/AqeFi3pB5yVbZOh/4tjsLD0lkTUO50CQfduNDgnxDo\nwVPAbvXBe856FR4AyA6mkLjOr/afqLehaZwu/FbcumTITsRDAot/8RQmqp09Phec\ndfMW8PBMRQKBgQCegxzDCV0/iTuUxpZhwJXJRW1KLp/csk8nhQ4R8aetR67J4Mz7\nZP1uO36FPk68PgvBUwPHXATpPdyJ+PDr4Fj69r0IxkLtAmI0GnItLyRDJWX5i2rH\nCqWLHKL80hfhz3XS9DYc4d9QQBLBCoOBVMfksWIN9y4R3bAscIfXlf8vJQKBgH2l\nEfQlz242AJKHAAXjQFzrbQL1nPBegELRRQoFDPSxxwAOsVsVpm+8W8etTH14heLP\naKIgHo63o3xxlY0pmZeYgOjyDNWnu2xLbvuqnGWlFgSQ5Dwmpk8ax42RWYxC2UBk\n06V5uWpXF7Bkt8oPVCy0EDbr0EtM4C2gjRUpNEzxAoGBAKMHLutrpWILy33BryyB\n8hLN2q0u9ZXTJMzCRLhj75dIR1GQQ5Z3a24sRPaaNUIi9I4nm3zbUersru4faI3U\nTvNbByaaSHBY7XhB5MOtrp4cOXi8q17t0kvCppO4P6VVpWC39tEmPqWz0Zu0SfcQ\nCHPdzadZZibstcLJg+9DETRA\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloudstorage1@splendid-light-349913.iam.gserviceaccount.com",
+  "client_id": "101241326901121535186",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloudstorage1%40splendid-light-349913.iam.gserviceaccount.com"
+}
