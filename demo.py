@@ -1,6 +1,6 @@
 import os
 from google.cloud import storage
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'GoogleCloudStorage/splendid-light-349913-c9fcf83d3ee2.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'splendid-light-349913-c9fcf83d3ee2.json'
 
 storage_client = storage.Client()
 
